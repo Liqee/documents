@@ -1,2 +1,2 @@
 # documents
-Open documentation for Liqee
+Docs for Liqee
