@@ -1,2 +1,2 @@
 # documents
-Docs for Liqee
+Docs for Liqee.
